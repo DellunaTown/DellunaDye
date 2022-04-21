@@ -1,0 +1,8 @@
+name: DellunaDye
+version: ${project.version}
+main: me.lewin.dellunadye.Main
+api-version: 1.18
+commands:
+  dye:
+    aliases:
+      - 염색
